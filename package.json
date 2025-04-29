@@ -1,0 +1,12 @@
+{
+    "name": "mongodb-movie-project",
+    "version": "1.0.0",
+    "description": "Learning MongoDB with a movie database",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "mongodb": "^6.16.0"
+    }
+}
